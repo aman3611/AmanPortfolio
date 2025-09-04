@@ -2,6 +2,7 @@ import {
     mobile,
     web,
     javascript,
+    cpp,
     typescript,
     html,
     css,
@@ -66,7 +67,7 @@ import {
     },
        {
       name: "C++",
-      icon: c++,
+      icon: cpp,
     },
     {
       name: "Python",
