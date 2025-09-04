@@ -170,7 +170,7 @@ import {
     {
       name: "Online Auction System (BIDBAZAAR)",
       description:
-        "BidBazaar is an online auction platform that empowers vendors and NGOs to reach buyers through a scalable digital marketplace. The platform ensures transparency with real-time bidding updates, secure authentication, and role-based access control for admins, vendors, and buyers. It features a user-friendly dashboard built with React and Tailwind CSS, powered by a robust Node.js and MongoDB backend. BidBazaar aims to make auctions accessible, efficient, and inclusive for small businesses and communities.",
+        "BidBazaar is an online auction platform that empowers vendors and NGOs to reach buyers through a scalable digital marketplace. The platform ensures transparency with real-time bidding updates, secure authentication, and role-based access control for admins, vendors, and buyers. It features a user-friendly dashboard built with React and Tailwind CSS, powered by a robust Node.js and MongoDB backend.",
       tags: [
         {
           name: "Javascript",
@@ -196,7 +196,7 @@ import {
     {
       name: "Music Streaming Application",
       description:
-        "The Music Streaming Application is a feature-rich digital platform that enables users to stream their favorite songs, explore trending tracks, and create personalized playlists. With real-time streaming powered by Python and Flask, along with socket programming for seamless communication, the platform ensures smooth playback and quick responsiveness. Users can discover new music, manage their playlists, and enjoy an interactive experience. This project highlights backend development, real-time systems, and scalable design for delivering an engaging and modern music experience.",
+        "The Music Streaming Application is a feature-rich digital platform that enables users to stream their favorite songs, explore trending tracks, and create personalized playlists. With real-time streaming powered by Python and Flask, along with socket programming for seamless communication, the platform ensures smooth playback and quick responsiveness. Users can discover new music, manage their playlists, and enjoy an interactive experience.",
       tags: [
         {
           name: "python",
