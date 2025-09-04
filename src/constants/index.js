@@ -16,6 +16,7 @@ import {
     starbucks,
     tesla,
     autoserv,
+    citipulse,
     threejs,
     music,
     weather
@@ -130,6 +131,38 @@ import {
   ];
   
   const projects = [
+
+       {
+      name: "CitiPulse",
+      description:
+        "CitiPulse is a civic-tech platform that empowers citizens to report local issues like potholes, garbage dumps, or broken streetlights using geo-tagged photos. The platform ensures transparency and accountability by allowing real-time status tracking and community voting. It features a clean UI built with React and Tailwind CSS, backed by a robust Node.js and MongoDB backend. CitiPulse aims to bridge the gap between citizens and government bodies for a smarter, more responsive city." ,
+",
+      tags: [
+        {
+          name: "Javascript",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "React",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Node.js",
+          color: "pink-text-gradient",
+        },
+         {
+          name: "MONGODB",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: citipulse,
+           web_link : "https://citipulse.netlify.app/",
+      source_code_link: "https://github.com/aman3611/CitiPulse"
+    },
+
+      
+    
+      
     {
       name: "Online Auction System (BIDBAZAAR)",
       description:
