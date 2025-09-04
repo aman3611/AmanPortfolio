@@ -32,6 +32,7 @@ import contactLogo from "./contact_logo.svg"
 import linkedin from "./linkedin.png"
 import email from "./email.png"
 import animated from "./animated.png"
+import citipulse from "./citipulse.png"
 
 export {
   amanlogo,
@@ -58,6 +59,7 @@ export {
   starbucks,
   tesla,
   autoserv,
+  citipulse,
   music,
   weather,
   website,
