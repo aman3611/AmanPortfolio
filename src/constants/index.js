@@ -64,6 +64,10 @@ import {
       name: "React JS",
       icon: reactjs,
     },
+       {
+      name: "C++",
+      icon: c++,
+    },
     {
       name: "Python",
       icon: redux,
@@ -136,7 +140,7 @@ import {
       name: "CitiPulse",
       description:
         "CitiPulse is a civic-tech platform that empowers citizens to report local issues like potholes, garbage dumps, or broken streetlights using geo-tagged photos. The platform ensures transparency and accountability by allowing real-time status tracking and community voting. It features a clean UI built with React and Tailwind CSS, backed by a robust Node.js and MongoDB backend. CitiPulse aims to bridge the gap between citizens and government bodies for a smarter, more responsive city." ,
-",
+,
       tags: [
         {
           name: "Javascript",
