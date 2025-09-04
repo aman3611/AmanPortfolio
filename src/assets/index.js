@@ -8,6 +8,7 @@ import weather from "./weather.jpg"
 
 
 import css from "./tech/css.png";
+import c++ from "./tech/css.png";
 import docker from "./tech/docker.png";
 import figma from "./tech/figma.png";
 import git from "./tech/git.png";
